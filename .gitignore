@@ -1,0 +1,15 @@
+node_modules/
+dist/
+output/
+uploads/
+data/access.txt
+*.exe
+*.whl
+*.log
+*.mp4
+*.mp3
+*.wav
+*.safetensors
+*.gguf
+.env
+.DS_Store
